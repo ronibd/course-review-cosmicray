@@ -1,0 +1,22 @@
+.nav-link{
+    font-size: 20px;
+    color:#fff;
+    font-weight: 600;
+}
+.nav-link:hover{
+    color:crimson;
+}
+.header-top{
+    background: url('header.jpeg');
+    height:380px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header-top h1{
+    font-weight: 900;
+}
