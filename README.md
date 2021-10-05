@@ -1,9 +1,9 @@
-#  Learn Best and Easy Way Programming by Easy-Programming
+#  Learn Best and Easy Way think creactively Programming by Cosmicray-Programming
 
-This project was Learning Programming Courcec with [Easy-Programming
-](https://eassy-programming-cources.netlify.app/).
+This project was Learning Programming Courcec with [Cosmicray-Programming
+](https://abunomanroni-assignment-9.netlify.app/).
 
-## What we do
+## What purpose of This Course
 * Best way provide and learning programming
 * jobs opportunity 
-* Interning benefit 
+* Intern and learn with creative thinking
